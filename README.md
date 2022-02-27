@@ -17,11 +17,11 @@ Currently it has 7 languages:-
 - C++
 - C#
 
-## How to use? ([Full Guide](/))
+## How to use? ([Full Guide](/vsc-extension-quickstart.md))
 
 Just type the following one word when you start your particular file.
 
-You can also read full guide [here](/)
+You can also read full guide [here](/vsc-extension-quickstart.md)
 
 ### HTML
 

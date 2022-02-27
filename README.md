@@ -7,7 +7,7 @@ A [vscode](https://code.visualstudi.com) extension which helps you in generating
 
 ## Current languages
 
-Currently it has 7 languages:-
+Currently it has 7 languages :-
 
 - HTML
 - CSS
@@ -37,7 +37,7 @@ plate
 
 ### Python
 
-This command help you in print syntax in python
+This command helps you in print syntax in python
 
 ```
 print

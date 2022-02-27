@@ -1,0 +1,67 @@
+{
+  "name": "CodeCompanion",
+  "displayName": "Code Companion",
+  "description": "Code Companion helps you with generating boilerplate in just a type of one word",
+  "version": "0.0.2",
+  "publisher": "NamanGarg",
+  "icon": "img/logo.png",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.64.0"
+  },
+  "categories": [
+    "Programming Languages",
+    "Snippets",
+    "Other"
+  ],
+  "keywords": [
+    "html",
+    "php",
+    "python",
+    "c",
+    "cpp",
+    "csharp",
+    "code companion",
+    "multi-root ready"
+  ],
+  "bugs": {
+    "url": "https://github.com/designatory/code-companion/issues"
+  },
+  "homepage": "https://github.com/designatory/code-companion/README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/designatory/code-companion.git"
+  },
+  "contributes": {
+    "snippets": [
+      {
+        "language": "python",
+        "path": "./snippets/snippets.python.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/snippets.html.json"
+      },
+      {
+        "language": "php",
+        "path": "./snippets/snippets.php.json"
+      },
+      {
+        "language": "css",
+        "path": "./snippets/snippets.css.json"
+      },
+      {
+        "language": "c",
+        "path": "./snippets/snippets.c.json"
+      },
+      {
+        "language": "cpp",
+        "path": "./snippets/snippets.cpp.json"
+      },
+      {
+        "language": "csharp",
+        "path": "./snippets/snippets.csharp.json"
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "C Boilerplate": {
+    "prefix": "plate",
+    "body": [
+      "#include <stdio.h>",
+      "",
+      "int main(){",
+      "   ${1:// write code here}",
+      " ",
+      "   return 0;",
+      "}"
+    ],
+    "description": "Generate C Boilerplate"
+  }
+}

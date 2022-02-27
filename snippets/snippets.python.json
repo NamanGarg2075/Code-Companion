@@ -1,0 +1,7 @@
+{
+  "To print in Python": {
+    "prefix": "print",
+    "body": ["print(\"${1:Hello, World!}\")"],
+    "description": "Print command in python"
+  }
+}

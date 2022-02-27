@@ -1,0 +1,20 @@
+{
+  "C# Boilerplate": {
+    "prefix": "plate",
+    "body": [
+      "using System;",
+      "",
+      "namespace ${1:HelloWorld}",
+      "{",
+      "  class ${2:Program}",
+      "  {",
+      "    static void Main(string[] args)",
+      "    {",
+      "      Console.WriteLine(\"${3:Hello World!}\");",
+      "    }",
+      "  }",
+      "}"
+    ],
+    "description": "Generates C# Boilerplate"
+  }
+}

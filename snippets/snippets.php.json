@@ -1,0 +1,22 @@
+{
+  "Connect to Database": {
+    "prefix": "dbconnect",
+    "body": [
+      "<?php",
+      "$${1:servername} = \"${2:localhost}\";",
+      "$${3:username} = \"${4:username}\";",
+      "$${5:password} = \"${6:password}\";",
+      "",
+      "// Create connection",
+      "$${7:conn} = new mysqli($${1:servername}, $${3:username}, $${5:password});",
+      "",
+      "// Check connection",
+      "if ($${7:conn}->connect_error) {",
+      "  die(\"Connection failed: \" . $${7:conn}->connect_error);",
+      "}",
+      "echo \"Connected successfully\";",
+      "?>"
+    ],
+    "description": "Connect to Database"
+  }
+}

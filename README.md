@@ -3,11 +3,11 @@
 ![logo](./img/logo.png)
 ![vs](https://code.visualstudio.com/assets/branding/app-icon.png)
 
-A [vscode](https://code.visualstudi.com) extension which helps you in generating boilerplate without writing it, you just have to type one word to generate boilerplate.
+A [vscode](https://code.visualstudi.com) extension which helps you in generating boilerplate without writing it. You just have to type one word to generate boilerplate.
 
 ## Current languages
 
-Currently we are having total of 7 languages:-
+Currently it has 7 languages:-
 
 - HTML
 - CSS
@@ -63,7 +63,7 @@ plate
 
 ### Php
 
-Many developers found dificult to donnect theri website to mysql database, just type the following command and get a pre created database.
+Many developers find it dificult to connect their website to mysql database. Just type the following command and get a pre-created database.
 
 ```
 dbconnect
@@ -71,5 +71,5 @@ dbconnect
 
 ## Wrapping up :)
 
-- More language support will be added in future.
+- Support for more languages will be added in future.
 - Contributions are welcome :)

@@ -63,7 +63,7 @@ plate
 
 ### Php
 
-Many developers find it dificult to connect their website to mysql database. Just type the following command and get a pre-created database.
+Many developers find it difficult to connect their website to mysql database. Just type the following command and get a pre-created database.
 
 ```
 dbconnect

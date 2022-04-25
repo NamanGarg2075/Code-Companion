@@ -2,7 +2,7 @@
   "name": "CodeCompanion",
   "displayName": "Code Companion",
   "description": "Code Companion helps you with generating boilerplate in just a type of one word",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "publisher": "NamanGarg",
   "icon": "img/logo.png",
   "license": "MIT",

@@ -108,5 +108,16 @@
       "}"
     ],
     "description": "Generate CSS basic code"
+  },
+  "Basic css code": {
+    "prefix": "main",
+    "body": [
+      "*{",
+      " margin: 0;",
+      " padding: 0;",
+      " box-sizing: border-box;",
+      "}"
+    ],
+    "description": "Generate CSS basic code"
   }
 }

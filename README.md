@@ -35,6 +35,12 @@ plate
 plate
 ```
 
+👇This will add basic but important code.
+
+```
+main
+```
+
 ### Python
 
 This command helps you in print syntax in python
@@ -53,12 +59,6 @@ plate
 
 ```
 plate
-```
-
-👇This will add basic but important code.
-
-```
-main
 ```
 
 ### C#
